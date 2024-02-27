@@ -1,4 +1,4 @@
-# diet-exercise_for_depression
+# diet-exercise_recommendation_for_depression
 
 Objective:
 The primary goal of this study is to raise public awareness about the need for a healthy diet and exercise 
